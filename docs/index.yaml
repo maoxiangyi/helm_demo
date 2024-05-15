@@ -3,12 +3,22 @@ entries:
   my-helm-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-15T16:17:38.677696+08:00"
+    created: "2024-05-15T16:35:26.366759+08:00"
     description: A Helm chart for Kubernetes
-    digest: 724638db88bd0cd7129c4a349718c25029b1b5b0d28fa5cd427ec8a2b6414484
+    digest: 9f2dcfdfeb8202f135247300896727ddd958e5c32b732e3ce46aa8a94a5ed28b
+    name: my-helm-demo
+    type: application
+    urls:
+    - my-helm-demo-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-05-15T16:35:26.36632+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 8ce8a9e2292a61da60e39a54737b1edcee114d919d05480cd0c45fd1d4c4206f
     name: my-helm-demo
     type: application
     urls:
     - my-helm-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-15T16:17:38.677064+08:00"
+generated: "2024-05-15T16:35:26.365719+08:00"
